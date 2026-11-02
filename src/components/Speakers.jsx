@@ -6,26 +6,26 @@ import './Speakers.css';
 const SPEAKERS = [
   {
     id: '01',
-    name: 'Paras Atal',
-    role: 'SDE at BNY Mellon · Former Samsung AI Intern',
+    name: 'Coming Soon',
+    role: '-',
     img: '',
   },
   {
     id: '02',
-    name: 'Anubha Maneshwar',
-    role: 'Founder, GirlScript Foundation',
+    name: 'Coming Soon',
+    role: '-',
     img: '',
   },
   {
     id: '03',
-    name: 'Megha Gupta',
-    role: 'Youth Wellbeing Expert · Mental Health Programme Specialist',
+    name: 'Coming Soon',
+    role: '-',
     img: '',
   },
   {
     id: '04',
-    name: 'Vivek Gupta',
-    role: 'Founder, AlgoZenith · ICPC World Finalist',
+    name: 'Coming Soon',
+    role: '-',
     img: '',
   },
 ];
