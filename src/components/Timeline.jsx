@@ -17,13 +17,13 @@ const EVENTS = [
     ],
   },
   {
-    date: "12th Nov - 18th Nov",
+    date: "13th Nov - 19th Nov",
     title: "Contribution Period",
     desc: "Start contributing, collaborating, and bringing your ideas to life.",
     links: [{ label: "Guidelines", url: "" }],
   },
   {
-    date: "18th Nov 2025",
+    date: "19th Nov 2025",
     title: "Closing Ceremony",
     desc: "A grand finale to an incredible open-source journey!",
     links: [],

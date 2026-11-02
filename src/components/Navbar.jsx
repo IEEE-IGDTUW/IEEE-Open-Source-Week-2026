@@ -3,7 +3,6 @@ import logo from "../assets/ieee-logo.png"; // adjust path if you keep the logo 
 
 const LINKS = [
   ["About", "#about"],
-  ["Themes", "#themes"],
   ["Timeline", "#timeline"],
   ["Events", "#events"],
   ["Speakers", "#speakers"],
