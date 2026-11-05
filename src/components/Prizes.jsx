@@ -8,7 +8,7 @@ const prizes = [
     place: "1st Place",
     icon: "🏆",
     description:
-      "Cash Prize + Gold Medal + Exclusive IEEE Goodies + 1-Year IEEE Student Membership",
+      "Releasing Soon",
     className: "prizes-first",
   },
   {
@@ -16,7 +16,7 @@ const prizes = [
     place: "2nd Place",
     icon: "🥈",
     description:
-      "Cash Prize + Silver Medal + IEEE Goodies + 1-Year IEEE Student Membership",
+      "Releasing Soon",
     className: "prizes-second",
   },
   {
@@ -24,7 +24,7 @@ const prizes = [
     place: "3rd Place",
     icon: "🥉",
     description:
-      "Cash Prize + Bronze Medal + IEEE Goodies + 1-Year IEEE Student Membership",
+      "Releasing Soon",
     className: "prizes-third",
   },
 ];
