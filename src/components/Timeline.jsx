@@ -9,7 +9,7 @@ const EVENTS = [
     title: "Registration Opens",
     desc: "Register yourself through unstop and join the discord channel.",
     links: [
-      { label: "Register", url: "" },
+      { label: "Register", url: "https://eventsliner.com/events/open-source-week-10-0-mw6mwj37" },
       {
         label: "Join Discord",
         url: "https://discord.gg/2zKh4dp7J",

@@ -370,7 +370,7 @@ export default function Hero() {
             </div>
           </div>
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
-            <a className="btn f" href="#register">Register interest</a>
+            <a className="btn f" href="#timeline">Register interest</a>
             <a className="btn" href="#timeline">Timeline</a>
           </div>
         </div>

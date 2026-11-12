@@ -1,4 +1,5 @@
 
+
 import { useState } from "react";
 import logo from "../assets/ieee-logo.png";
 
@@ -70,7 +71,12 @@ export default function Navbar() {
           </a>
 
           {/* Register */}
-          <a className="btn" href="#register">
+          <a
+            className="btn"
+            href="https://eventsliner.com/events/open-source-week-10-0-mw6mwj37"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Register
           </a>
         </div>
