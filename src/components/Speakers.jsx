@@ -6,15 +6,15 @@ import './Speakers.css';
 const SPEAKERS = [
   {
     id: '01',
-    name: 'Coming Soon',
-    role: '-',
-    img: '',
+    name: 'Ruchi Bhatia',
+    role: 'Technical Product Marketing Manager at AWS and Tech Content Creator',
+    img: 'C:\\Users\\Parvati Suthar\\Downloads\\IEEE-Open-Source-Week-2026-main\\IEEE-Open-Source-Week-2026-main\\public\\Ruchi Bhatia.jpg',
   },
   {
     id: '02',
-    name: 'Coming Soon',
-    role: '-',
-    img: '',
+    name: 'Akshat Gupta',
+    role: 'Software Development Engineer at Amazon Search',
+    img: 'C:\\Users\\Parvati Suthar\\Downloads\\IEEE-Open-Source-Week-2026-main\\IEEE-Open-Source-Week-2026-main\\public\\Akshat Gupta.jpg',
   },
   {
     id: '03',
