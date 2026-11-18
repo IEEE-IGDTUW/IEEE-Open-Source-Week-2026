@@ -22,12 +22,26 @@ const SPEAKERS = [
     role: 'Software Engineer at Salesforce',
     img: '/Palak%20Awasthi.jpg',
   },
-  {
-    id: '04',
-    name: 'Coming Soon',
-    role: '-',
-    img: '',
-  },
+
+{
+  id: '04',
+  name: 'Vipul Gupta',
+  role: 'Product Owner, GitHub Star and Open Source Contributor',
+  img: 'https://commandcode.ai/www/about/team/vipulgupta.png',
+},
+{
+  id: '05',
+  name: 'Jaskaran Singh',
+  role: 'ICPC World Finals 2023 Participant and Codeforces Master',
+  img: 'https://algoqueen.icpc.global/Jaskaran%20Singh.jpg?auto=format&fit=crop&q=80&w=880',
+},
+{
+  id: '06',
+  name: 'Naman Pal',
+  role: 'Software Engineer and Tech Content Creator',
+  img: 'https://ik.imagekit.io/gfuz8xxgp/naman_image.jpg?updatedAt=1751610026426',
+},
+
 ];
 /* ----------------------------------------------- */
 
